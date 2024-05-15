@@ -1,16 +1,16 @@
-### Hi there 👋
+# Talyoliv
+Olá! Eu sou a Talita e atualmente estudo C# e .Net no BackEnd e HTLM, CSS e JavaScrip no FrontEnd, estou em transição de carreira e super me dedicando para conquistar minha primeira oportunidade na área.
 
-<!--
-**talyoliv/talyoliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talita-gomes-tecnologia/)
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talyoliv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=talyoliv&bg_color=3a5862&border_color=000&title_color=000&text_color=FFF)
+
+## GitHub Stars
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talyoliv&theme=transparent&bg_color=3a5862&border_color=000&show_icons=true&icon_color=ff6347&title_color=000&text_color=FFF)
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=talyoliv&repo=dio-lab-open-source&bg_color=3a5862&border_color=000&show_icons=true&icon_color=ff6347&title_color=000&text_color=FFF)](https://github.com/talyoliv/dio-lab-open-source)
