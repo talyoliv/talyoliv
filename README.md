@@ -1,4 +1,4 @@
-# Talyoliv
+# Talita
 Olá! Eu sou a Talita e atualmente estudo C# e .Net no BackEnd e HTLM, CSS e JavaScrip no FrontEnd, estou em transição de carreira e super me dedicando para conquistar minha primeira oportunidade na área.
 
 ## Conecte-se comigo
